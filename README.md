@@ -8,7 +8,8 @@ The encrypted files in a directory are unreadable (works best with images).
 
 - To encrypt content in the directory change the current directory to your test directory, type ```python encrypt.py``` and to decrypt the encrypted content in the same directory type ```python decrypt.py``` in your console. 
 (Please note, ```decrypt.py``` will only help decrypt content already encrypted by ```encrypt.py```, if you run this script on unencrypted files they will be assumed to be encrypted files and ```decrypt.py``` will "decrypt" which will corrupt your files and no, ```encrypt.py``` will not encrypt ```decrypt.py```. Refer the code for more details.)
-- An Example:
+
+- Example:
 ```
 $ mkdir test_directory
 $ cd test_directory
