@@ -14,9 +14,9 @@ The encrypted files in a directory are unreadable (works best with images).
 $ mkdir test_directory
 $ cd test_directory
 
-fill your test_directory with test files 
-and paste both encrypt.py and decrypt.py 
-in the same directory and then run
+# fill your test_directory with test files 
+# and paste both encrypt.py and decrypt.py 
+# in the same directory and then run
 
 $ python encrypt.py
 $ python decrypt.py
